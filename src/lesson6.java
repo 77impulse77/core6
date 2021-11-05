@@ -12,7 +12,7 @@ public class lesson6 {
         static String BASE_URL = "http://dataservice.accuweather.com";
 
         // Токен...
-        static String API_KEY = "b61YHK1i0eUVipTeiA4ZJGyYmPxaCvnx";
+        static String API_KEY = "0d1tNZJPfzzT3qGokM18FGGxAUpt7hpj";
 
         // ID города в системе: Санкт-Петербург...
         static Integer TARGET_CITY_ID = 295212;
@@ -53,3 +53,4 @@ public class lesson6 {
             printResponseData(target_url.openStream());
         }
     }
+//дажва мне помогла с ::)
